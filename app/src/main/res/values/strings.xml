@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">販賣機們</string>
+    <string name="home">首頁</string>
+    <string name="occupy">使用狀況</string>
+    <string name="map">位置</string>
+    <string name="about_us">組員</string>
+    <string name="api">http://140.114.207.97/api/final/v1/</string>
+    <string name="m1">碩齋飲料機</string>
+    <string name="m2">碩齋零食機</string>
+    <string name="m3">禮齋飲料機</string>
+    <string name="m4">禮齋零食機</string>
+    <string name="stastic">統計圖表</string>
+    <string name="information">販賣機資訊</string>
+    <string name="hot_time">熱門時段</string>
+    <string name="product">商品資訊</string>
+    <string name="total">商品總數:</string>
+    <string name="remain">剩餘數量:</string>
+    <string name="list">清單</string>
+    <string name="date_pick">日期選擇</string>
+    <string name="setting">設定</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_map_apis_key">AIzaSyD_p0LNpPeaAS4ptZd3XCYVb2EfDAOz4pk</string>
+</resources>
